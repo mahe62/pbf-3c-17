@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
-| Kelas | TI-3C/3D |
+| NIM | **1841720144** |
+| Nama Lengkap | **Muhammad Rizqi Mahendra** |
+| Kelas | TI-3C |
 
 
 ## Struktur Folder
