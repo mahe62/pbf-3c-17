@@ -171,3 +171,7 @@
 >* [listing_22.js](../../src/01_pengantar/praktikum1/listing22/listing_22.js)
 ---
 
+## Praktikum 2
+***
+`Screenshoot`
+>![hello world](img/praktikum2/helloworld.png)
