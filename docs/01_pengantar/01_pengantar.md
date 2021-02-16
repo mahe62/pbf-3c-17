@@ -85,3 +85,89 @@
 >![listing 1-11](img/praktikum1/1-11.png)
 >* [listing_11.js](../../src/01_pengantar/praktikum1/listing11/listing_11.js)
 ---
+
+***Listing 1-12. ES5: Closures enclose their lexical scope***
+
+`Screenshoot`
+>![listing 1-12](img/praktikum1/1-12.png)
+>* [listing_12.js](../../src/01_pengantar/praktikum1/listing12/listing_12.js)
+---
+
+***Listing 1-13. ES6: `let` block scoping***
+
+`Screenshoot`
+>![listing 1-13](img/praktikum1/1-13.png)
+>* [listing_13.js](../../src/01_pengantar/praktikum1/listing13/listing_13.js)
+---
+
+***Listing 1-14. ES6: `let` vs. `var` duplicate and function parameter name clashes***
+
+`Screenshoot`
+>![listing 1-14](img/praktikum1/1-14.png)
+>* [listing_14_let.js](../../src/01_pengantar/praktikum1/listing14/listing_14_let.js)
+>* [listing_14_var.js](../../src/01_pengantar/praktikum1/listing14/listing_14_var.js)
+---
+
+***Listing 1-15. ES6: `const` vs. `let` behaviors***
+
+`Screenshoot`
+>![listing 1-15](img/praktikum1/1-15.png)
+>* [listing_15_let.js](../../src/01_pengantar/praktikum1/listing15/listing_15_let.js)
+>* [listing_15_cons.js](../../src/01_pengantar/praktikum1/listing15/listing_15_cons.js)
+---
+***Listing 1-16. ES6: Modules with `export` and `import`***
+
+`Screenshoot`
+>![listing 1-16](img/praktikum1/1-16.png)
+>* [amazing.js](../../src/01_pengantar/praktikum1/listing16/amazing.js)
+>* [fantastic.js](../../src/01_pengantar/praktikum1/listing16/fantastic.js)
+>* [index.html](../../src/01_pengantar/praktikum1/listing16/index.html)
+>* [script.js](../../src/01_pengantar/praktikum1/listing16/script.js)
+>* [wonderful.js](../../src/01_pengantar/praktikum1/listing16/wonderful.js)
+---
+***Listing 1-17. ES6: Modules with refined  and `default export` and `import`***
+
+`Screenshoot`
+>![listing 1-16](img/praktikum1/1-16.png)
+>* [amazing.js](../../src/01_pengantar/praktikum1/listing17/amazing.js)
+>* [fantastic.js](../../src/01_pengantar/praktikum1/listing17/fantastic.js)
+>* [index.html](../../src/01_pengantar/praktikum1/listing17/index.html)
+>* [script.js](../../src/01_pengantar/praktikum1/listing17/script.js)
+>* [wonderful.js](../../src/01_pengantar/praktikum1/listing17/wonderful.js)
+---
+
+***Listing 1-18. ES6: Arrow functions***
+
+`Screenshoot`
+>![listing 1-18](img/praktikum1/1-18.png)
+>* [listing_18.js](../../src/01_pengantar/praktikum1/listing18/listing_18.js)
+---
+
+***Listing 1-19. ES6: Arrow function's `this` reference is from their outer scope***
+
+`Screenshoot`
+>![listing 1-19](img/praktikum1/1-19.png)
+>* [listing_19.js](../../src/01_pengantar/praktikum1/listing19/listing_19.js)
+---
+
+***Listing 1-20. ES6: Default function parameters***
+
+`Screenshoot`
+>![listing 1-20](img/praktikum1/1-20.png)
+>* [listing_20.js](../../src/01_pengantar/praktikum1/listing20/listing_20.js)
+---
+
+***Listing 1-21. ES6: Spread/rest ... operator***
+
+`Screenshoot`
+>![listing 1-21](img/praktikum1/1-21.png)
+>* [listing_21.js](../../src/01_pengantar/praktikum1/listing21/listing_21.js)
+---
+
+***Listing 1-22. ES6: Spread/rest ... operator***
+
+`Screenshoot`
+>![listing 1-22](img/praktikum1/1-22.png)
+>* [listing_22.js](../../src/01_pengantar/praktikum1/listing22/listing_22.js)
+---
+
