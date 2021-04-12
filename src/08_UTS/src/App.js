@@ -1,7 +1,7 @@
-import Home from './pages/home';
-import Products from './pages/products';
-import Promotion from './pages/promotion';
-import Contact from './pages/contact';
+import Home from './pages/Home/home';
+import Products from './pages/Products/products';
+import Promotion from './pages/Promotion/promotion';
+import Contact from './pages/Contact/contact';
 import Header from './parts/header';
 import Footer from './parts/footer';
 import './App.css';
