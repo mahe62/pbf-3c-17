@@ -1,5 +1,5 @@
-import Fourth from './fourth';
-import Kontak from './kontak';
+import Fourth from '../component/fourth';
+import Kontak from '../component/kontak';
 export default function Contact() {
     return (
         <div>

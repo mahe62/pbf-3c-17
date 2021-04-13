@@ -195,6 +195,10 @@ html[xmlns] .slides {
 }
 /* FlexSlider Default Theme
 *********************************/
+.map_canvas{
+  height: 360px;
+  width: 400px;
+}
 .flexslider {
   margin: 0;
   background: transparent;

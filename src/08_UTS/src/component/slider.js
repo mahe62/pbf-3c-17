@@ -1,11 +1,8 @@
-import First from '../Home/first';
-import Second from '../Home/second';
-import Third from '../Home/third';
-import Fourth from '../Home/fourth';
-export default function Home() {
+import React from 'react';
 
-    return (
-        <div>
+class Slider extends React.Component {
+    render() {
+        return (
             <div class="site-slider">
                 <div class="flexslider">
                     <ul class="slides">
@@ -34,24 +31,7 @@ export default function Home() {
                     </ul>
                 </div>
             </div>
-            <br />
-            <br />
-            <div class="first-section">
-                <First />
-            </div>
-
-            <div class="second-section">
-                <Second />
-            </div>
-
-            <div class="third-section">
-                <Third />
-            </div>
-            <div class="fourth-section">
-                <Fourth />
-
-            </div>
-        </div>
-    );
+        );
+    }
 }
-
+export default Slider;

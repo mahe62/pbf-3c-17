@@ -1,9 +1,9 @@
-import All from '../../Service/API/all';
-import Music from '../../Service/API/music';
-import Creative from '../../Service/API/creative';
-import Responsive from '../../Service/API/responsive';
-import Filter from './filter';
-import Fourth from './fourth';
+import All from '../Service/API/all';
+import Music from '../Service/API/music';
+import Creative from '../Service/API/creative';
+import Responsive from '../Service/API/responsive';
+import Filter from '../component/filter';
+import Fourth from '../component/fourth';
 export default function Products() {
     return (
         <div>

@@ -1,6 +1,6 @@
-import Vidio from '../Promotion/vidio';
-import Promotions from '../Promotion/promotions';
-import Fourth from '../Home/fourth';
+import Vidio from '../component/vidio';
+import Promotions from '../component/promotions';
+import Fourth from '../component/fourth';
 export default function Promotion() {
     return (
         <div>
