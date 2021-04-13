@@ -1,7 +1,7 @@
-import All from '../../parts/API/all';
-import Music from '../../parts/API/music';
-import Creative from '../../parts/API/creative';
-import Responsive from '../../parts/API/responsive';
+import All from '../../Service/API/all';
+import Music from '../../Service/API/music';
+import Creative from '../../Service/API/creative';
+import Responsive from '../../Service/API/responsive';
 import Filter from './filter';
 import Fourth from './fourth';
 export default function Products() {
