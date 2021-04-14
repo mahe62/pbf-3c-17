@@ -62,4 +62,5 @@ const SimpleForm = props => {
 };
 
 export default reduxForm({
+    form: 'simple',
 })(SimpleForm);
