@@ -4,6 +4,13 @@ import Promotion from './pages/promotion';
 import Contact from './pages/contact';
 import Header from './parts/header';
 import Footer from './parts/footer';
+import './assets/css/bootstrap.min.css'
+import './assets/css/font-awesome.min.css'
+import './assets/css/normalize.min.css'
+import './assets/css/templatemo-style.css'
+
+
+
 import './App.css';
 import React from "react";
 import {

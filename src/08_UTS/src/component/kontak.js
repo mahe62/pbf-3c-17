@@ -1,7 +1,9 @@
 import React from 'react';
-import Form from './form';
 import Map from './map';
-
+import { Provider } from "react-redux";
+import store from "../store/store";
+import showResults from "../component/showResults";
+import SimpleForm from "../component/SimpleForm";
 
 class Kontak extends React.Component {
     render() {
@@ -14,13 +16,17 @@ class Kontak extends React.Component {
                     </div> */}
                         <div class="row pb-5">
                             <div class="mapouter">
-                                <Map/>
+                                <Map />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-5">
                         <div class="row">
-                            <Form/>
+                            <Provider store={store}>
+                                <div style={{ padding: 15 }}>
+                                    <SimpleForm onSubmit={showResults} />
+                                </div>
+                            </Provider>
                         </div>
                     </div>
                 </div>
