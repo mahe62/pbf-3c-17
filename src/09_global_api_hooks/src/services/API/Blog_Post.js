@@ -1,5 +1,4 @@
-import {baseUrlApi}from './Config'; 
-
+import { baseUrlApi } from './Config';
 const PostAPI = (path, data) => {
     const promise = new Promise((resolve, reject) => {
         fetch(`${baseUrlApi}/${path}`, {
@@ -18,4 +17,4 @@ const PostAPI = (path, data) => {
     })
     return promise;
 }
-export default PostAPI
+export default PostAPI;

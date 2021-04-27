@@ -1,4 +1,4 @@
-import {baseUrlApi}from './Config'; 
+import { baseUrlApi } from './Config';
 const DeleteAPI = (path, data) => {
     const promise = new Promise((resolve, reject) => {
         fetch(`${baseUrlApi}/${path}/${data}`, { method: 'DELETE' })
@@ -10,4 +10,4 @@ const DeleteAPI = (path, data) => {
     })
     return promise;
 }
-export default DeleteAPI
+export default DeleteAPI;

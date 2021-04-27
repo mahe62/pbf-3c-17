@@ -1,10 +1,7 @@
-import {baseUrlApi}from './Config'; 
-
-
-const GetAPI = (path) => {
+import { baseUrlApi } from './Config';
+const DeleteAPI = (path, data) => {
     const promise = new Promise((resolve, reject) => {
-        fetch(`${baseUrlApi}/${path}`)
-            .then(response => response.json())
+        fetch(`${baseUrlApi}/${path}/${data}`, { method: 'DELETE' })
             .then((result) => {
                 resolve(result);
             }, (err) => {
@@ -13,4 +10,4 @@ const GetAPI = (path) => {
     })
     return promise;
 }
-export default GetAPI
+export default DeleteAPI;
