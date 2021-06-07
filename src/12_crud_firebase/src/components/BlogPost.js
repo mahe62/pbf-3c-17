@@ -123,6 +123,10 @@ export default class BlogPost extends React.Component {
       updateState.userId = myFirebase.auth().currentUser.email;
       updateState.title = postArtikel.title;
       updateState.body = postArtikel.body;
+      console.log(updateState);
+      console.log(dataArtikel);
+      console.log(postArtikel);
+      console.log(e.target);
     }
     postArtikel.id = "";
     postArtikel.title = "";
