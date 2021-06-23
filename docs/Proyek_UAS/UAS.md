@@ -16,5 +16,5 @@
 | 10  | 10_firebase_reactjs             | Mahasiswa mengetahui dan memahami konsep firebase, Mahasiswa dapat membuat firebase sendiri                   | [Buka](../10_firebase_reactjs/10.md)             |
 | 11  | 11_redux_thunk                  | Mahasiswa mengetahui dan memahami konsep redux thunk pada project                                             | [Buka](../11_redux_thunk/11.md)                  |
 | 12  | 12_crud_firebase                | Mahasiswa paham dengan konsep firebase, Mahasiswa dapat melakukan CRUD pada firebase                          | [Buka](../12_crud_firebase/12.md)                |
-| 13  | 13_quasar                       | Pengenalan dan instalasi Quasar Framework                                                                     | [Buka](../13_quasar/13.md)                       |
+| 13  | 13_quasar                       | Pengenalan dan instalasi Quasar Framework                                                                     | [Buka](../13_intro_quasar/13.md)                       |
 | 14  | 14_quasar_directives_components | Pengenalan Quasar Directives dan Quasar Components                                                            | [Buka](../14_quasar_directives_components/14.md) |
